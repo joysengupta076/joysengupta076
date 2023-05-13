@@ -31,7 +31,7 @@ Domains I am working on:
 Autonomous, ADAS, Digital Twins and Simulations, Computer</br>Vision and Deep Learning, Industry 4.0 - Cloud and Digitization, Infrastructure and Solutions
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=rand()&)
+![](https://komarev.com/ghpvc/?username=joysengupta076&label=rand()&)
 <!--
 **halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
